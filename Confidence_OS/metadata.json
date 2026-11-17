@@ -1,0 +1,6 @@
+{
+  "name": "AnswerCraft — AI Communication & Interview Coach",
+  "description": "Your personal AI communication partner and role-based interview preparation platform. Master professional speaking, clear articulation, and ace interviews across any career path.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
